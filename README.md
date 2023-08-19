@@ -23,13 +23,19 @@ _See `contributing.md` for ways to get started. Please adhere to this project's 
 _Clone the project_
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/heyyrxjesh/QRCodeGenerator.git
 ```
 
 _Go to the project directory_
 
 ```bash
-  cd my-project
+  cd QRCodeGenerator
+```
+
+_Install a virtual environment client_
+
+```bash
+  pip install virtualenv
 ```
 
 _Create a virtual environment_
